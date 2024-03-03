@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyndon</h1>
-<h3 align="center">A tech enthusiast form Australia</h3>
+<h3 align="center">A tech enthusiast from Australia</h3>
 
 - 🔭 I’m currently working at **Maccas**
 
